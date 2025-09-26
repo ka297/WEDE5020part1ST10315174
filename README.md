@@ -65,6 +65,43 @@ Freeman, E. & Robson, E., 2020. Head First HTML and CSS. 2nd ed. Sebastopol: Oâ€
 Robinson, A., 2021. Responsive Web Design with HTML5 and CSS3. New York: Apress
 Nielsen, J., 2012. Usability Engineering. 2nd ed. San Francisco: Morgan Kaufmann
 
+Part 2:
+Changelog:
+Part 1 fixes:
+Fixed navigation links that were not redirecting correctly.  
+Added missing alt attributes to all images for accessibility.  
+Improved semantic HTML structure by using <header>, <section>, <footer> instead of only <div> tags.  
+Corrected file naming inconsistencies (e.g., AboutUs.html instead of about us.html).  
+
+Screenshots:
+![Alt text](<Phone screenshot.jpg>)
+![Alt text](<tablet screenshot-1.jpg>)
+![Alt text](<Desktop screenshots.jpg>)
+
+Part 2 : styling css
+Created a new external stylesheet style.css and linked it to all HTML files.  
+Applied a css reset for consistent styling across browsers.  
+Established styles (default font, color scheme, margins, and paddings).  
+Styled typography with improved font-family, font-size, letter-spacing, and heading hierarchy.  
+Designed navigation bar using flexbox, with hover effects and improved user experience.  
+Created a layout using CSS Grid with 3-column desktop view.  
+Styled forms with improved readability, spacing, and interactive inputs.  
+Added button styles with hover effects for interactivity.  
+Applied visual improvements such as box-shadow, rounded corners, and hover scaling on product cards.  
+Implemented responsive design using media queries:
+Tablet  
+Mobile   
+Applied units for scalable typography and layout spacing.  
+Made all images responsive to fit different screen sizes.  
+Tested the website on different devices and browsers using Chrome DevTools responsive mode.  
+Added Screenshots evidence of Desktop, Tablet, and Mobile views in the README.  
+
+References:
+W3Schools. (2025) CSS Tutorial. Available at: https://www.w3schools.com/css/ (Accessed: 26 September 2025).
+Mozilla Developer Network (MDN). (2025) CSS: Cascading Style Sheets. Available at: https://developer.mozilla.org/en-US/docs/Web/CSS (Accessed: 26 September 2025).
+Mozilla Developer Network (MDN). (2025) Responsive design basics. Available at: https://developer.mozilla.org/en-US/docs/Learn/CSS/CSS_layout/Responsive_Design (Accessed: 26 September 2025).
+GitHub Docs. (2025) Hello World tutorial. Available at: https://docs.github.com/en/get-started/start-your-journey/hello-world (Accessed: 26 September 2025).
+FreeCodeCamp. (2025) Responsive Web Design Principles. Available at: https://www.freecodecamp.org/learn/responsive-web-design/ (Accessed: 26 SeptemberÂ 2025).
 
 
 
